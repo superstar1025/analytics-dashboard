@@ -91,7 +91,7 @@ class DemoChat extends React.Component {
             )
           })}
         </div>
-        <button onClick={generateText}>Generate new text</button>
+        <button onClick={generateText}>Generate new Analytics</button>
         <div style={{marginTop: 5}}>
           <input
             type="checkbox"
