@@ -1,11 +1,7 @@
 {
-  "name": "Analytics Dashboard",
+  "name": "analytics dashboard",
   "version": "0.4.2",
-  "author": "Erni Koldzic",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tibotiber/rd3.git"
-  },
+  "author": "erni koldzic",
   "engines": { 
     "node": ">=6.9.0" 
   },
